@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alianassyed84-sys&theme=algolia&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Shortlisted-F5A623?style=for-the-badge&logo=target&logoColor=white" alt="SIH Shortlisted" />
+  <img src="https://img.shields.io/github/followers/alianassyed84-sys?label=GitHub%20Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2EA44F?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
 ---
@@ -52,12 +52,23 @@ I don't just study theory. I build, break, and ship code live.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics: stats, top languages, contribution calendar" width="100%"/>
+  <img src="https://img.shields.io/github/followers/alianassyed84-sys?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/alianassyed84-sys/QanoonTech?label=QanoonTech%20Stars&style=for-the-badge&logo=github&color=0e75b6" alt="QanoonTech stars" />
+  <img src="https://img.shields.io/github/last-commit/alianassyed84-sys/QanoonTech?label=QanoonTech%20Last%20Commit&style=for-the-badge&logo=github&color=0e75b6" alt="Last commit" />
+</p>
+
+<!--
+  Uncomment these two once your metrics.yml and streak-stats.yml workflows
+  have run successfully and the SVG files exist in the repo:
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
+-->
 
 ---
 
@@ -66,7 +77,7 @@ I don't just study theory. I build, break, and ship code live.
 | Project | Description | Links |
 |---|---|---|
 | 🏛️ **QanoonTech (LegalSaathi)** | India-focused AI legal assistance platform for citizens and legal professionals. Next.js, React, TypeScript, Tailwind, MongoDB Atlas, Clerk, OpenAI | [Repo](https://github.com/alianassyed84-sys/QanoonTech) |
-| 🔍 **GlassBox AI** | Open-source time-travel debugger for multi-agent AI systems: see every step, catch mistakes, replay just the broken part. FastAPI, PostgreSQL, Redis + Arq, WebSockets, OpenTelemetry, Next.js, React Flow | Coming soon |
+| 🔍 **GlassBox AI** | Open-source time-travel debugger for multi-agent AI systems: see every step, catch mistakes, replay just the broken part. FastAPI, PostgreSQL, Redis + Arq, WebSockets, OpenTelemetry, Next.js, React Flow | [Live Demo](https://glassbox-seven.vercel.app/) |
 | 📚 **Learnora** | SaaS LMS mobile app with Learner, Instructor and Admin panels, freemium model, live sessions, course builder, analytics and payouts. React Native, Node.js, MongoDB, JWT, Razorpay, Firebase | [Live Demo](https://educore-lms-mobile-app.vercel.app/) |
 
 ---
