@@ -6,10 +6,10 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/%E2%97%8F%20%E2%97%8F%20%E2%97%8F-bash%20%E2%80%94%20anas@mjcet:~%20(zsh)-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" alt="Terminal Window Header" />
+      <img src="https://img.shields.io/badge/%E2%97%8F%20%E2%97%8F%20%E2%97%8F-bash%20%E2%80%94%20Anas:~%20(zsh)-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" alt="Terminal Window Header" />
       <br/>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=780&height=45&lines=const+anas+%3D+new+FullStackDeveloper%28%27Syed+Anas+Ali%27%29%3B%3Banas.setFocus%28%5B%27Next.js%27%2C+%27React+Native%27%2C+%27Agentic+AI%27%2C+%27FastAPI%27%5D%29%3B%3Banas.role+%3D+%27Web+Dev+Execom+%40+GDG+on+Campus+MJCET%27%3B%3Banas.ship%28%5B%27GlassBox+AI%27%2C+%27Learnora+LMS%27%2C+%27FixNow%27%5D%29%3B%3Bgit+commit+-m+%27Learn+-%3E+Build+-%3E+Ship+-%3E+Repeat+%F0%9F%9A%80%27" alt="Interactive Typing Code" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=780&height=45&lines=const+anas+%3D+new+FullStackDeveloper%28%27Syed+Anas+Ali%27%29%3B%3Banas.setFocus%28%5B%27Next.js%27%2C+%27React+Native%27%2C+%27Agentic+AI%27%2C+%27FastAPI%27%5D%29%3B%3Banas.role+%3D+%27Full-Stack+Developer+%26+AI+Builder%27%3B%3Banas.ship%28%5B%27GlassBox+AI%27%2C+%27Learnora+LMS%27%2C+%27FixNow%27%5D%29%3B%3Bgit+commit+-m+%27Learn+-%3E+Build+-%3E+Ship+-%3E+Repeat+%F0%9F%9A%80%27" alt="Interactive Typing Code" />
       </a>
     </td>
   </tr>
@@ -20,7 +20,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%8E%93%20B.E.%20CSE%20@-MJCET-0D1117?style=flat-square&logo=academia&logoColor=9D4EDD" alt="MJCET CSE" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%91%A5%20GDG%20on%20Campus%20MJCET-Web%20Dev%20Execom%20(2026--2027)-0D1117?style=flat-square&logo=google&logoColor=00D9FF" alt="GDG on Campus" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Open%20To-Collaborations%20%26%20Projects-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="Open to Collaborations" />
 </p>
 
 <p>
@@ -46,7 +46,7 @@ I'm **Anas Ali**, a Computer Science Engineering student at **Muffakham Jah Coll
 - 🤖 **AI & Intelligent Automation:** Exploring AI/ML, agentic workflows, and developer observability tooling.
 - 🧡 **Real-World Problem Solving:** Turning practical ideas into production-ready software.
 - 🎯 **Hackathon Innovator:** Shortlisted in **Smart India Hackathon (SIH)** and active hackathon builder (**FixNow** at AI4 Impact).
-- 🌐 **Leadership & Community:** Serving as **Web Development Execom** at **GDG on Campus MJCET** (2026–2027).
+- 🚀 **Production-Grade Delivery:** Dedicated to writing clean, maintainable, and high-performance software.
 - ⚡ **Engineering Mindset:** Always learning, always building, always shipping.
 
 </td>
@@ -241,13 +241,14 @@ const anas = {
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h4>👥 Web Development Execom</h4>
-      <p><b>GDG on Campus MJCET</b><br/>(2026 – 2027)</p>
-      <p>Leading workshops, mentoring peers, and driving community web technology initiatives.</p>
+      <h4>🏆 Hackathon Innovator</h4>
+      <p><b>Smart India Hackathon (SIH)</b><br/>Shortlisted Innovator</p>
+      <p>Recognized for innovative engineering problem-solving and rapid full-stack prototyping.</p>
     </td>
     <td width="25%" valign="top">
-      <h4>⚡ Hackathon Participant</h4>
-      <p>Participated in <b>AI4 Impact</b> hackathon with FixNow & shortlisted in <b>Smart India Hackathon</b>.</p>
+      <h4>⚡ AI4 Impact Builder</h4>
+      <p><b>FixNow Platform</b><br/>Hackathon Participant</p>
+      <p>Built an on-demand AI-assisted local service platform connecting users with technicians.</p>
     </td>
     <td width="25%" valign="top">
       <h4>💻 Project Building</h4>
