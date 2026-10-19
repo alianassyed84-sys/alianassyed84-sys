@@ -2,9 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SYED%20ANAS%20ALI&fontSize=65&color=0:00D9FF,50:465CFF,100:9D4EDD&stroke=00D9FF&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20AI%2FML%20BUILDER&descSize=16&descAlignY=70" width="100%" alt="Syed Anas Ali neon profile banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+%26+Next.js+Developer;React+Native+%26+Cross-Platform+Mobile+Builder;Multi-Agent+AI+Tooling+Architect+(GlassBox);Web+Dev+Execom+%40+GDG+on+Campus+MJCET;Shortlisted+Innovator+%40+Smart+India+Hackathon" alt="Animated developer roles"/>
-</a>
+<!-- macOS / VS Code Interactive Terminal Window -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/%E2%97%8F%20%E2%97%8F%20%E2%97%8F-bash%20%E2%80%94%20anas@mjcet:~%20(zsh)-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" alt="Terminal Window Header" />
+      <br/>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=780&height=45&lines=const+anas+%3D+new+FullStackDeveloper%28%27Syed+Anas+Ali%27%29%3B%3Banas.setFocus%28%5B%27Next.js%27%2C+%27React+Native%27%2C+%27Agentic+AI%27%2C+%27FastAPI%27%5D%29%3B%3Banas.role+%3D+%27Web+Dev+Execom+%40+GDG+on+Campus+MJCET%27%3B%3Banas.ship%28%5B%27GlassBox+AI%27%2C+%27Learnora+LMS%27%2C+%27FixNow%27%5D%29%3B%3Bgit+commit+-m+%27Learn+-%3E+Build+-%3E+Ship+-%3E+Repeat+%F0%9F%9A%80%27" alt="Interactive Typing Code" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Hyderabad-India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D9FF" alt="Hyderabad, India" />
